@@ -1,4 +1,4 @@
-# Tiny Tapeout project information (Wokwi project)
+# Tiny Tapeout project information (Wokwi project) 
 project:
   wokwi_id:     481148566563347457       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "SumadorTalivu"      # Project title
